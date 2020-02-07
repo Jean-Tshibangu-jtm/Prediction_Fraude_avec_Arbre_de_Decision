@@ -11,6 +11,6 @@ Librairies et Outils
     • Spyder, Jupyter.
     • Anaconda (Python 3.6)
 
-Comment Utiliser
+Comment Utilise
 
 Nous avons deux fichiers :  ArbreDecisionClassification.py et  ArbredecVizualisation.py. Le premier fichier (ArbreDecisionClassification.py )est utilisé pour le prétraitement de données, construction du modèle, évaluation avec la Matrice de Confusion, et le second fichier(ArbredecVizualisation.py) comprend l’Initialisation du classifieur DT, Adapter le classificateur aux données, ainsi que différentes visualisations. Et vous pouvez commencer la formation.
