@@ -4,7 +4,6 @@ L’objectif de ce modèle est de classifier,  si une transaction bancaire  est 
 Le modèle d’apprentissage formé à l'aide de l'ensemble de données de prediction_de_fraud.csv disponible sur le web( nous contactez en cas de bésoin)
 
 Librairies et Outils
-
     • Scikit-learn
     • pandas
     • pydotplus
