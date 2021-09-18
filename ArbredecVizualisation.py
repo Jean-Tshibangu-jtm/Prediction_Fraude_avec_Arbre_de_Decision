@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 24 17:19:54 2019
+Created on Sun Jan 22 21:30:54 2019
 
-@author: formateurit
+@author: TSHIBA-PC
 """
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
