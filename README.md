@@ -2,7 +2,7 @@
 
 Dans ce projet, il est question de construire un modèle de machine learning avec la méthode de classification de l’arbre de décision. 
 L’objectif de ce modèle est de classifier,  si une transaction bancaire  est frauduleuse ou non. 
-Le modèle d’apprentissage formé à l'aide de l'ensemble de données de prediction_de_fraud.csv disponible sur le web( nous contactez en cas de bésoin)
+Le modèle d’apprentissage formé à l'aide de l'ensemble de données de prediction_de_fraud.csv disponible sur le web(https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 # Librairies et Outils
     • Scikit-learn
